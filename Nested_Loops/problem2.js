@@ -1,3 +1,6 @@
+/*
+Finding Prime number within given value
+*/
 let a = 200;
 for (let i = 2; i <= a; i++) {
   let flag = false;
